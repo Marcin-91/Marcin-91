@@ -1,9 +1,9 @@
 ### Hi 👋, I'm
-# Marcin Zieliński 👨‍💻
+# Martin Zieliński 👨‍💻
 
-_I'm from Earth!_
+_I'm from Poland!🇵🇱_
 
-It's me, Marcin Zieliński. You've probably never heard of me and I've never thought of writting a README fo myself 😊
+It's me, Martin Zieliński (in polish, we write Marcin). You've probably never heard of me and I've never thought of writting a README fo myself 😊
 
 
 - 🔭 I’m currently working on final project in CodersLab.
